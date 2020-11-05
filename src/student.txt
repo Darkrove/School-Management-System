@@ -1,0 +1,18 @@
+c50101,Kevin,Louis,2nd,Dombivli,Java,11/03/2007,9856412378,kevinlouis@gmail.com
+c50102,Owen,Wilson,3rd,Kurla,Ruby,01/05/2010,9084128945,owen2020@gmail.com
+c50103,Edward,Gibson,7th,Thane,Python,09/04/1998,8085612875,edgibson@yahoo.com
+c50104,Antonio,Daniel,3rd,Parel,Swift,03/06/2001,9896534738,antoniog@gmail.com
+c50105,Aaron,Neville,8th,Mahim,JavaScript,07/03/2005,7021658935,aaronneville@gmail.com
+c50106,Devin,Noah,4th,Sion,C,05/05/2007,9022648321,devinnoah@gmail.com
+c50107,Marco,Leo,9th,Bandra,C++,02/12/2004,9867756948,marcoleo@yahoo.com
+c50108,Steffan,Black,10th,Andheri,HTML,18/10/2001,9892566915,steffanblack@gmail.com
+c50109,John,Oliver,4th,Borivali,PHP,14/10/2010,9892675364,johnoliver@gmail.com
+c50110,Elizabeth,Olivia,7th,Vasai,SQL,08/07/2006,9022468892,elizabetholivia@gmail.com
+c50111,Walter,Joseph,9th,Parel,MATLAB,03/02/2008,8082295648,walterjoseph@gmail.com
+c50112,Harry,Alexander,5th,Mercury,Java,22/04/2007,9684529267,harryalexander@gmail.com
+c50113,Michael,Archie,10th,Byculla,PHP,30/05/2004,9493516853,michaelarchie@gmail.com
+c50114,Emma,Grace,3rd,Vashi,Python,07/06/2010,9451238769,emmagrace@gmail.com
+c50115,David,William,5th,Powai,Swift,28/11/2007,9359789957,davidwilliam@gmail.com
+c50116,Susan,Ella,10th,Vikhroli,Ruby,01/11/2000,9236985847,susanella@gmail.com
+c50117,Albert,Henry,2nd,Mulund,PHP,18/01/2001,9156978963,alberthenry@gmail.com
+c50118,Hannah,Ruby,3rd,Vile Parle,R,12/02/2012,9985946785,hannahruby@gmail.com
